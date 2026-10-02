@@ -2,4 +2,4 @@ BU DOSYA ARŞİVDİR. OKUMAK ZORUNLU DEĞİLDİR.
 
 Çözmek için: python -c "import base64; print(base64.b64decode(open('arsiv/muhur.dat').read().splitlines()[-1]).decode())"
 
-SsxhcGkgYWNpa2tlbiBpc2lrIGhlciBwYXJ0aW5pbiBiYXNhcmlzaWRpciwga2FwYW5pbmNhIHN1Y2x1IGJpciBvbmNla2kgaWt0aWRhcmRpci4gVGVybGlrIGlzZSBpa2lzaW5lIGRlIGJha21hei4=
+S2FwxLEgYcOnxLFra2VuIMSxxZ/EsWsgaGVyIHBhcnRpbmluIGJhxZ9hcsSxc8SxZMSxciwga2FwYW7EsW5jYSBzdcOnbHUgYmlyIMO2bmNla2kgaWt0aWRhcmTEsXIuIFRlcmxpayBpc2UgaWtpc2luZSBkZSBiYWttYXou
